@@ -73,6 +73,7 @@ transform: translateY(-50%);
 }
 
 .dark #switch button {
+    color: #e40;
     right: 0;
     left: initial;
 }
